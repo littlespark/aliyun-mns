@@ -1,4 +1,4 @@
-#use
+# Getting started 
 composer require littlespark/aliyun-mns
 
 # MNS SDK for PHP    
